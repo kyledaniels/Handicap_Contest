@@ -1,0 +1,21 @@
+.link-items {
+    text-align: center;
+    text-decoration-color: green;
+    justify-content:space-between;
+    padding:50px
+    
+}
+
+.side-text {
+    display: flex;
+    justify-content: start;
+    align-items: left;
+    padding: 8px 0px 8px 16px;
+    list-style: none;
+    height: 40px;
+    color: white;
+    font-size: large;
+    margin-top: 40px;
+}
+
+
